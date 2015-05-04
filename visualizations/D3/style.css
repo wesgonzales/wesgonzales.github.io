@@ -1,0 +1,74 @@
+.highlight  {
+  color: #C64C6F;
+  font-weight: 600;
+}
+
+.item {
+  padding-left: 30px;
+}
+
+.bigger {
+  font-size: 150%;
+}
+
+.containerOne {
+  padding-left: 50px;
+  width: 340px;
+  float: left;
+}
+.containerTwo {
+  padding-left: 50px;
+  width: 340px;
+  float: left;
+}
+.containerThree {
+  padding-left: 50px;
+  width: 340px;
+  float: left;
+}
+
+.containerFour {
+  padding-left: 50px;
+  width: 340px;
+  float: left;
+  margin-right: 253px;
+}
+
+.containerFive {
+  padding-left: 50px;
+  width: 340px;
+  float: left;
+}
+
+.containerSix {
+  padding-left: 50px;
+  width: 340px;
+  float: left;
+  margin-right: 344px;
+}
+
+.containerSeven {
+  padding-left: 50px;
+  width: 340px;
+  float: left;
+}
+
+#blockOne {
+  width: 1200px;
+  height: 212px;
+}
+
+#blockTwo {
+  width: 1200px;
+  height: 212px;
+}
+#blockThree {
+  width: 1200px;
+  height: 212px;
+  margin-top:263px;
+}
+
+
+pre {
+  color: #FFD200;
+}
