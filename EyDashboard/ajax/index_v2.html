@@ -9,7 +9,7 @@
     <!-- begin breadcrumb -->
     <!-- end breadcrumb -->
     <!-- begin page-header -->
-    <h1 class="page-header">Bar Chart <small>Basic Pie Chart</small></h1>
+    <h1 class="page-header">Barchart <small>Ticks and Rollover</small></h1>
     <!-- end page-header -->
 
 
@@ -23,8 +23,8 @@
                         <small>Analysis Details</small>
                     </h4>
 
-                        <div class="containerSeven">
-                            <div id="chartSeven"></div>
+                        <div class="containerSix">
+                            <div id="chartSix"></div>
                         </div>
 
                 </div>
@@ -40,7 +40,14 @@
 </div>
 
 <!-- ================== BEGIN PAGE LEVEL JS ================== -->
-
+<script>
+    App.restartGlobalFunction();
+    App.setPageTitle('Color Admin | Dashboard V2');
+    
+    $.getScript('assets/js/dashboard-v2.min.js').done(function() {
+        DashboardV2.init();
+    });
+</script>
 <script src="d3.min.js"></script>
 <script src="script.js"></script>
 <!-- ================== END PAGE LEVEL JS ================== -->
