@@ -689,7 +689,7 @@ var handleLoadPage = function(hash) {
 /* 17. Handle Ajax Page Load Url - added in V1.5
 ------------------------------------------------ */
 var handleCheckPageLoadUrl = function(hash) {
-    hash = (hash) ? hash : '#ajax/index_v2.html';
+    hash = (hash) ? hash : '#ajax/bar_chart.html';
     
     if (hash === '') {
         $('#ajax-content').html(default_content);

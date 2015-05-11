@@ -298,6 +298,11 @@ var myChart3 = d3.select('.containerSix #chartSix').append('svg')
       d3.select(this)
           .style('opacity', 1)
           .style('fill', tempColor3)
+    })
+
+    .on('mouseleave', function(d) {
+        tooltip3.transition()
+            .style('opacity', 0)
     });
 
 myChart3.transition()
@@ -354,7 +359,7 @@ hGuide3.selectAll('text')
  */
 var width = 400,
     height = 400,
-    radius = 200
+    radius = 175
 colors = d3.scale.ordinal()
     .range(['#595AB7','#A57706','#D11C24','#C61C6F','#BD3613','#2176C7','#259286','#738A05']);
 

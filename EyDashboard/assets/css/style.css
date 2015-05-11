@@ -358,8 +358,8 @@ label {
     height: 54px;
     width: 220px;
     font-weight: 100;
-    font-size: 16px;
-    line-height: 62px;
+    font-size: 14px;
+    line-height: 53px;
 }
 
 a.navbar-brand:hover{color:#f4f4f4!important; cursor: default;}
@@ -372,9 +372,10 @@ a.navbar-brand:hover{color:#f4f4f4!important; cursor: default;}
     float: left;
     margin-right: 8px;
     background-image: url("../../assets/img/eyLogo.png");
-    background-position: -2px;
-    width: 63px;
-    height: 37px;
+    background-position: -1px;
+    width: 43px;
+    height: 27px;
+    margin-top: 5px;
 }
 
 .navbar-toggle {
@@ -2784,6 +2785,7 @@ a.text-white:focus {
     -webkit-border-radius: 3px !important;
     -moz-border-radius: 3px !important;
     border-radius: 3px;
+    display:none;
 }
 .gritter-top,
 .gritter-bottom,
