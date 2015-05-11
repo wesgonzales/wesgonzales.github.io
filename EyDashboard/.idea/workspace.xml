@@ -1,7 +1,196 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd1c7548-da65-46ea-869a-dcf49b7f5daf" name="Default" comment="" />
+    <list default="true" id="dd1c7548-da65-46ea-869a-dcf49b7f5daf" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\Gruntfile.coffee" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\docs\intro.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\docs\lib\color.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\docs\lib\themes.coffee" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\docs\lib\themes.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\docs\resources\barber-pole-orange.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\docs\resources\flash-white.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\docs\resources\templates\index.jade" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\docs\resources\templates\page.jade" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\docs\welcome\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\pace.coffee" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\pace.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\pace.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\templates\pace-theme-barber-shop.tmpl.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\templates\pace-theme-big-counter.tmpl.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\templates\pace-theme-bounce.tmpl.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\templates\pace-theme-center-atom.tmpl.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\templates\pace-theme-center-circle.tmpl.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\templates\pace-theme-center-radar.tmpl.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\templates\pace-theme-center-simple.tmpl.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\templates\pace-theme-corner-indicator.tmpl.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\templates\pace-theme-fill-left.tmpl.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\templates\pace-theme-flash.tmpl.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\templates\pace-theme-flat-top.tmpl.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\templates\pace-theme-loading-bar.tmpl.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\templates\pace-theme-mac-osx.tmpl.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\templates\pace-theme-minimal.tmpl.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\tests\demo.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\black\pace-theme-barber-shop.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\black\pace-theme-big-counter.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\black\pace-theme-bounce.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\black\pace-theme-center-atom.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\black\pace-theme-center-circle.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\black\pace-theme-center-radar.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\black\pace-theme-center-simple.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\black\pace-theme-corner-indicator.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\black\pace-theme-fill-left.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\black\pace-theme-flash.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\black\pace-theme-flat-top.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\black\pace-theme-loading-bar.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\black\pace-theme-mac-osx.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\black\pace-theme-minimal.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\blue\pace-theme-barber-shop.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\blue\pace-theme-big-counter.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\blue\pace-theme-bounce.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\blue\pace-theme-center-atom.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\blue\pace-theme-center-circle.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\blue\pace-theme-center-radar.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\blue\pace-theme-center-simple.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\blue\pace-theme-corner-indicator.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\blue\pace-theme-fill-left.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\blue\pace-theme-flash.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\blue\pace-theme-flat-top.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\blue\pace-theme-loading-bar.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\blue\pace-theme-mac-osx.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\blue\pace-theme-minimal.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\green\pace-theme-barber-shop.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\green\pace-theme-big-counter.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\green\pace-theme-bounce.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\green\pace-theme-center-atom.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\green\pace-theme-center-circle.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\green\pace-theme-center-radar.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\green\pace-theme-center-simple.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\green\pace-theme-corner-indicator.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\green\pace-theme-fill-left.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\green\pace-theme-flash.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\green\pace-theme-flat-top.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\green\pace-theme-loading-bar.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\green\pace-theme-mac-osx.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\green\pace-theme-minimal.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\orange\pace-theme-barber-shop.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\orange\pace-theme-big-counter.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\orange\pace-theme-bounce.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\orange\pace-theme-center-atom.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\orange\pace-theme-center-circle.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\orange\pace-theme-center-radar.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\orange\pace-theme-center-simple.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\orange\pace-theme-corner-indicator.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\orange\pace-theme-fill-left.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\orange\pace-theme-flash.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\orange\pace-theme-flat-top.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\orange\pace-theme-loading-bar.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\orange\pace-theme-mac-osx.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\orange\pace-theme-minimal.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pace-theme-barber-shop.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pace-theme-big-counter.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pace-theme-bounce.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pace-theme-center-atom.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pace-theme-center-circle.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pace-theme-center-radar.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pace-theme-center-simple.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pace-theme-corner-indicator.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pace-theme-fill-left.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pace-theme-flash.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pace-theme-flat-top.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pace-theme-loading-bar.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pace-theme-mac-osx.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pace-theme-minimal.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pink\pace-theme-barber-shop.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pink\pace-theme-big-counter.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pink\pace-theme-bounce.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pink\pace-theme-center-atom.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pink\pace-theme-center-circle.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pink\pace-theme-center-radar.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pink\pace-theme-center-simple.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pink\pace-theme-corner-indicator.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pink\pace-theme-fill-left.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pink\pace-theme-flash.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pink\pace-theme-flat-top.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pink\pace-theme-loading-bar.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pink\pace-theme-mac-osx.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pink\pace-theme-minimal.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\purple\pace-theme-barber-shop.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\purple\pace-theme-big-counter.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\purple\pace-theme-bounce.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\purple\pace-theme-center-atom.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\purple\pace-theme-center-circle.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\purple\pace-theme-center-radar.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\purple\pace-theme-center-simple.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\purple\pace-theme-corner-indicator.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\purple\pace-theme-fill-left.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\purple\pace-theme-flash.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\purple\pace-theme-flat-top.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\purple\pace-theme-loading-bar.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\purple\pace-theme-mac-osx.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\purple\pace-theme-minimal.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\red\pace-theme-barber-shop.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\red\pace-theme-big-counter.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\red\pace-theme-bounce.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\red\pace-theme-center-atom.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\red\pace-theme-center-circle.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\red\pace-theme-center-radar.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\red\pace-theme-center-simple.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\red\pace-theme-corner-indicator.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\red\pace-theme-fill-left.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\red\pace-theme-flash.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\red\pace-theme-flat-top.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\red\pace-theme-loading-bar.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\red\pace-theme-mac-osx.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\red\pace-theme-minimal.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\silver\pace-theme-barber-shop.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\silver\pace-theme-big-counter.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\silver\pace-theme-bounce.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\silver\pace-theme-center-atom.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\silver\pace-theme-center-circle.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\silver\pace-theme-center-radar.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\silver\pace-theme-center-simple.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\silver\pace-theme-corner-indicator.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\silver\pace-theme-fill-left.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\silver\pace-theme-flash.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\silver\pace-theme-flat-top.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\silver\pace-theme-loading-bar.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\silver\pace-theme-mac-osx.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\silver\pace-theme-minimal.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\white\pace-theme-barber-shop.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\white\pace-theme-big-counter.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\white\pace-theme-bounce.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\white\pace-theme-center-atom.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\white\pace-theme-center-circle.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\white\pace-theme-center-radar.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\white\pace-theme-center-simple.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\white\pace-theme-corner-indicator.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\white\pace-theme-fill-left.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\white\pace-theme-flash.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\white\pace-theme-flat-top.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\white\pace-theme-loading-bar.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\white\pace-theme-mac-osx.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\white\pace-theme-minimal.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\yellow\pace-theme-barber-shop.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\yellow\pace-theme-big-counter.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\yellow\pace-theme-bounce.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\yellow\pace-theme-center-atom.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\yellow\pace-theme-center-circle.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\yellow\pace-theme-center-radar.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\yellow\pace-theme-center-simple.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\yellow\pace-theme-corner-indicator.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\yellow\pace-theme-fill-left.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\yellow\pace-theme-flash.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\yellow\pace-theme-flat-top.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\yellow\pace-theme-loading-bar.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\yellow\pace-theme-mac-osx.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\yellow\pace-theme-minimal.css" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/apps.js" afterPath="$PROJECT_DIR$/assets/js/apps.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="EyDashboard.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,18 +213,18 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.730769">
-              <caret line="98" column="49" selection-start-line="98" selection-start-column="48" selection-end-line="98" selection-end-column="49" />
+            <state vertical-scroll-proportion="-7.269231">
+              <caret line="98" column="77" selection-start-line="98" selection-start-column="77" selection-end-line="98" selection-end-column="77" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bar_chart.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="bar_chart.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ajax/bar_chart.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.2692308">
-              <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+            <state vertical-scroll-proportion="-0.13117284">
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -44,17 +233,17 @@
       <file leaf-file-name="pie_chart.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ajax/pie_chart.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.5384617">
-              <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+            <state vertical-scroll-proportion="-18.307692">
+              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="29" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="2.6409495">
+            <state vertical-scroll-proportion="0.0">
               <caret line="359" column="13" selection-start-line="359" selection-start-column="13" selection-end-line="359" selection-end-column="13" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -66,7 +255,7 @@
       <file leaf-file-name="page_with_footer.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ajax/page_with_footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.9615384">
+            <state vertical-scroll-proportion="0.0">
               <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
@@ -76,7 +265,7 @@
       <file leaf-file-name="page_full_height.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/page_full_height.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="39.23077">
+            <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -86,8 +275,8 @@
       <file leaf-file-name="apps.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/js/apps.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="700" column="0" selection-start-line="700" selection-start-column="0" selection-end-line="700" selection-end-column="0" />
+            <state vertical-scroll-proportion="-3.310345">
+              <caret line="321" column="0" selection-start-line="321" selection-start-column="0" selection-end-line="321" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -98,7 +287,7 @@
       <file leaf-file-name="snippets.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/snippets.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.7307692">
+            <state vertical-scroll-proportion="-0.0">
               <caret line="100" column="0" selection-start-line="100" selection-start-column="0" selection-end-line="101" selection-end-column="26" />
               <folding />
             </state>
@@ -118,7 +307,7 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.137931">
+            <state vertical-scroll-proportion="0.0">
               <caret line="2770" column="26" selection-start-line="2770" selection-start-column="26" selection-end-line="2770" selection-end-column="26" />
               <folding />
             </state>
@@ -134,19 +323,22 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/ajax/page_with_footer.html" />
         <option value="$PROJECT_DIR$/snippets.html" />
         <option value="$PROJECT_DIR$/ajax/index_v2.html" />
-        <option value="$PROJECT_DIR$/assets/js/apps.js" />
         <option value="$PROJECT_DIR$/assets/js/apps.min.js" />
         <option value="$PROJECT_DIR$/ajax/pie_chart.html" />
         <option value="$PROJECT_DIR$/script.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/ajax/bar_chart.html" />
         <option value="$PROJECT_DIR$/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/assets/js/apps.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -163,7 +355,7 @@
     <option name="width" value="1600" />
     <option name="height" value="859" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -186,7 +378,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -218,6 +410,10 @@
               <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -229,19 +425,19 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ajax" />
+              <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EY_D3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="recentsLimit" value="5" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
@@ -314,25 +510,25 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="2" y="44" width="1600" height="859" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2496799" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2496799" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32859176" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39914772" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32859176" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -343,6 +539,90 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="98" column="49" selection-start-line="98" selection-start-column="48" selection-end-line="98" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/bar_chart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/pie_chart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/page_with_footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page_full_height.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/apps.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="700" column="0" selection-start-line="700" selection-start-column="0" selection-end-line="700" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snippets.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="100" column="0" selection-start-line="100" selection-start-column="0" selection-end-line="101" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/theme/black.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2770" column="26" selection-start-line="2770" selection-start-column="26" selection-end-line="2770" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/theme/black.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -355,13 +635,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.36307693">
           <caret line="36" column="23" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/page_full_height.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="39.23077">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -369,16 +648,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ajax/page_with_footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.9615384">
+        <state vertical-scroll-proportion="0.0">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/snippets.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.7307692">
-          <caret line="100" column="0" selection-start-line="100" selection-start-column="0" selection-end-line="101" selection-end-column="26" />
           <folding />
         </state>
       </provider>
@@ -393,55 +664,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/apps.js">
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="700" column="0" selection-start-line="700" selection-start-column="0" selection-end-line="700" selection-end-column="0" />
+          <caret line="2770" column="26" selection-start-line="2770" selection-start-column="26" selection-end-line="2770" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/apps.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.310345">
+          <caret line="321" column="0" selection-start-line="321" selection-start-column="0" selection-end-line="321" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.730769">
-          <caret line="98" column="49" selection-start-line="98" selection-start-column="48" selection-end-line="98" selection-end-column="49" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="359" column="13" selection-start-line="359" selection-start-column="13" selection-end-line="359" selection-end-column="13" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ajax/bar_chart.html">
+    <entry file="file://$PROJECT_DIR$/snippets.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.2692308">
-          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.137931">
-          <caret line="2770" column="26" selection-start-line="2770" selection-start-column="26" selection-end-line="2770" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="100" column="0" selection-start-line="100" selection-start-column="0" selection-end-line="101" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ajax/pie_chart.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.5384617">
-          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        <state vertical-scroll-proportion="-18.307692">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="29" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/script.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.6409495">
-          <caret line="359" column="13" selection-start-line="359" selection-start-column="13" selection-end-line="359" selection-end-column="13" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="-7.269231">
+          <caret line="98" column="77" selection-start-line="98" selection-start-column="77" selection-end-line="98" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax/bar_chart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.13117284">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
