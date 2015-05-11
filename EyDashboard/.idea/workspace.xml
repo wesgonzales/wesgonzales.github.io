@@ -2,193 +2,191 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd1c7548-da65-46ea-869a-dcf49b7f5daf" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\Gruntfile.coffee" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\docs\intro.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\docs\lib\color.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\docs\lib\themes.coffee" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\docs\lib\themes.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\docs\resources\barber-pole-orange.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\docs\resources\flash-white.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\docs\resources\templates\index.jade" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\docs\resources\templates\page.jade" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\docs\welcome\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\pace.coffee" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\pace.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\pace.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\package.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\templates\pace-theme-barber-shop.tmpl.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\templates\pace-theme-big-counter.tmpl.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\templates\pace-theme-bounce.tmpl.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\templates\pace-theme-center-atom.tmpl.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\templates\pace-theme-center-circle.tmpl.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\templates\pace-theme-center-radar.tmpl.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\templates\pace-theme-center-simple.tmpl.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\templates\pace-theme-corner-indicator.tmpl.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\templates\pace-theme-fill-left.tmpl.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\templates\pace-theme-flash.tmpl.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\templates\pace-theme-flat-top.tmpl.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\templates\pace-theme-loading-bar.tmpl.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\templates\pace-theme-mac-osx.tmpl.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\templates\pace-theme-minimal.tmpl.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\tests\demo.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\black\pace-theme-barber-shop.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\black\pace-theme-big-counter.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\black\pace-theme-bounce.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\black\pace-theme-center-atom.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\black\pace-theme-center-circle.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\black\pace-theme-center-radar.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\black\pace-theme-center-simple.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\black\pace-theme-corner-indicator.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\black\pace-theme-fill-left.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\black\pace-theme-flash.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\black\pace-theme-flat-top.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\black\pace-theme-loading-bar.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\black\pace-theme-mac-osx.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\black\pace-theme-minimal.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\blue\pace-theme-barber-shop.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\blue\pace-theme-big-counter.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\blue\pace-theme-bounce.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\blue\pace-theme-center-atom.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\blue\pace-theme-center-circle.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\blue\pace-theme-center-radar.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\blue\pace-theme-center-simple.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\blue\pace-theme-corner-indicator.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\blue\pace-theme-fill-left.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\blue\pace-theme-flash.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\blue\pace-theme-flat-top.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\blue\pace-theme-loading-bar.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\blue\pace-theme-mac-osx.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\blue\pace-theme-minimal.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\green\pace-theme-barber-shop.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\green\pace-theme-big-counter.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\green\pace-theme-bounce.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\green\pace-theme-center-atom.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\green\pace-theme-center-circle.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\green\pace-theme-center-radar.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\green\pace-theme-center-simple.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\green\pace-theme-corner-indicator.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\green\pace-theme-fill-left.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\green\pace-theme-flash.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\green\pace-theme-flat-top.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\green\pace-theme-loading-bar.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\green\pace-theme-mac-osx.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\green\pace-theme-minimal.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\orange\pace-theme-barber-shop.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\orange\pace-theme-big-counter.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\orange\pace-theme-bounce.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\orange\pace-theme-center-atom.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\orange\pace-theme-center-circle.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\orange\pace-theme-center-radar.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\orange\pace-theme-center-simple.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\orange\pace-theme-corner-indicator.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\orange\pace-theme-fill-left.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\orange\pace-theme-flash.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\orange\pace-theme-flat-top.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\orange\pace-theme-loading-bar.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\orange\pace-theme-mac-osx.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\orange\pace-theme-minimal.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pace-theme-barber-shop.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pace-theme-big-counter.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pace-theme-bounce.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pace-theme-center-atom.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pace-theme-center-circle.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pace-theme-center-radar.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pace-theme-center-simple.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pace-theme-corner-indicator.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pace-theme-fill-left.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pace-theme-flash.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pace-theme-flat-top.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pace-theme-loading-bar.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pace-theme-mac-osx.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pace-theme-minimal.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pink\pace-theme-barber-shop.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pink\pace-theme-big-counter.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pink\pace-theme-bounce.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pink\pace-theme-center-atom.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pink\pace-theme-center-circle.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pink\pace-theme-center-radar.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pink\pace-theme-center-simple.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pink\pace-theme-corner-indicator.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pink\pace-theme-fill-left.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pink\pace-theme-flash.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pink\pace-theme-flat-top.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pink\pace-theme-loading-bar.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pink\pace-theme-mac-osx.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\pink\pace-theme-minimal.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\purple\pace-theme-barber-shop.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\purple\pace-theme-big-counter.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\purple\pace-theme-bounce.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\purple\pace-theme-center-atom.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\purple\pace-theme-center-circle.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\purple\pace-theme-center-radar.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\purple\pace-theme-center-simple.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\purple\pace-theme-corner-indicator.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\purple\pace-theme-fill-left.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\purple\pace-theme-flash.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\purple\pace-theme-flat-top.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\purple\pace-theme-loading-bar.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\purple\pace-theme-mac-osx.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\purple\pace-theme-minimal.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\red\pace-theme-barber-shop.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\red\pace-theme-big-counter.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\red\pace-theme-bounce.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\red\pace-theme-center-atom.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\red\pace-theme-center-circle.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\red\pace-theme-center-radar.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\red\pace-theme-center-simple.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\red\pace-theme-corner-indicator.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\red\pace-theme-fill-left.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\red\pace-theme-flash.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\red\pace-theme-flat-top.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\red\pace-theme-loading-bar.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\red\pace-theme-mac-osx.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\red\pace-theme-minimal.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\silver\pace-theme-barber-shop.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\silver\pace-theme-big-counter.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\silver\pace-theme-bounce.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\silver\pace-theme-center-atom.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\silver\pace-theme-center-circle.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\silver\pace-theme-center-radar.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\silver\pace-theme-center-simple.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\silver\pace-theme-corner-indicator.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\silver\pace-theme-fill-left.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\silver\pace-theme-flash.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\silver\pace-theme-flat-top.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\silver\pace-theme-loading-bar.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\silver\pace-theme-mac-osx.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\silver\pace-theme-minimal.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\white\pace-theme-barber-shop.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\white\pace-theme-big-counter.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\white\pace-theme-bounce.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\white\pace-theme-center-atom.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\white\pace-theme-center-circle.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\white\pace-theme-center-radar.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\white\pace-theme-center-simple.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\white\pace-theme-corner-indicator.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\white\pace-theme-fill-left.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\white\pace-theme-flash.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\white\pace-theme-flat-top.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\white\pace-theme-loading-bar.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\white\pace-theme-mac-osx.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\white\pace-theme-minimal.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\yellow\pace-theme-barber-shop.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\yellow\pace-theme-big-counter.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\yellow\pace-theme-bounce.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\yellow\pace-theme-center-atom.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\yellow\pace-theme-center-circle.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\yellow\pace-theme-center-radar.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\yellow\pace-theme-center-simple.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\yellow\pace-theme-corner-indicator.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\yellow\pace-theme-fill-left.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\yellow\pace-theme-flash.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\yellow\pace-theme-flat-top.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\yellow\pace-theme-loading-bar.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\yellow\pace-theme-mac-osx.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\gonzawe\Documents\GitHub\wesgonzales.github.io\EyDashboard\assets\plugins\pace\themes\yellow\pace-theme-minimal.css" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/apps.js" afterPath="$PROJECT_DIR$/assets/js/apps.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/Gruntfile.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/docs/resources/barber-pole-orange.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/docs/lib/color.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/tests/demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/docs/resources/flash-white.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/docs/welcome/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/docs/resources/templates/index.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/docs/intro.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/pace-theme-barber-shop.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/black/pace-theme-barber-shop.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/blue/pace-theme-barber-shop.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/green/pace-theme-barber-shop.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/orange/pace-theme-barber-shop.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/pink/pace-theme-barber-shop.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/purple/pace-theme-barber-shop.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/red/pace-theme-barber-shop.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/silver/pace-theme-barber-shop.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/white/pace-theme-barber-shop.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/yellow/pace-theme-barber-shop.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/templates/pace-theme-barber-shop.tmpl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/pace-theme-big-counter.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/black/pace-theme-big-counter.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/blue/pace-theme-big-counter.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/green/pace-theme-big-counter.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/orange/pace-theme-big-counter.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/pink/pace-theme-big-counter.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/purple/pace-theme-big-counter.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/red/pace-theme-big-counter.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/silver/pace-theme-big-counter.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/white/pace-theme-big-counter.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/yellow/pace-theme-big-counter.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/templates/pace-theme-big-counter.tmpl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/pace-theme-bounce.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/black/pace-theme-bounce.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/blue/pace-theme-bounce.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/green/pace-theme-bounce.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/orange/pace-theme-bounce.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/pink/pace-theme-bounce.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/purple/pace-theme-bounce.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/red/pace-theme-bounce.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/silver/pace-theme-bounce.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/white/pace-theme-bounce.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/yellow/pace-theme-bounce.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/templates/pace-theme-bounce.tmpl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/pace-theme-center-atom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/black/pace-theme-center-atom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/blue/pace-theme-center-atom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/green/pace-theme-center-atom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/orange/pace-theme-center-atom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/pink/pace-theme-center-atom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/purple/pace-theme-center-atom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/red/pace-theme-center-atom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/silver/pace-theme-center-atom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/white/pace-theme-center-atom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/yellow/pace-theme-center-atom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/templates/pace-theme-center-atom.tmpl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/pace-theme-center-circle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/black/pace-theme-center-circle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/blue/pace-theme-center-circle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/green/pace-theme-center-circle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/orange/pace-theme-center-circle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/pink/pace-theme-center-circle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/purple/pace-theme-center-circle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/red/pace-theme-center-circle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/silver/pace-theme-center-circle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/white/pace-theme-center-circle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/yellow/pace-theme-center-circle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/templates/pace-theme-center-circle.tmpl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/pace-theme-center-radar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/black/pace-theme-center-radar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/blue/pace-theme-center-radar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/green/pace-theme-center-radar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/orange/pace-theme-center-radar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/pink/pace-theme-center-radar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/purple/pace-theme-center-radar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/red/pace-theme-center-radar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/silver/pace-theme-center-radar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/white/pace-theme-center-radar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/yellow/pace-theme-center-radar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/templates/pace-theme-center-radar.tmpl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/pace-theme-center-simple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/black/pace-theme-center-simple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/blue/pace-theme-center-simple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/green/pace-theme-center-simple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/orange/pace-theme-center-simple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/pink/pace-theme-center-simple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/purple/pace-theme-center-simple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/red/pace-theme-center-simple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/silver/pace-theme-center-simple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/white/pace-theme-center-simple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/yellow/pace-theme-center-simple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/templates/pace-theme-center-simple.tmpl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/pace-theme-corner-indicator.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/black/pace-theme-corner-indicator.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/blue/pace-theme-corner-indicator.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/green/pace-theme-corner-indicator.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/orange/pace-theme-corner-indicator.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/pink/pace-theme-corner-indicator.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/purple/pace-theme-corner-indicator.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/red/pace-theme-corner-indicator.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/silver/pace-theme-corner-indicator.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/white/pace-theme-corner-indicator.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/yellow/pace-theme-corner-indicator.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/templates/pace-theme-corner-indicator.tmpl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/pace-theme-fill-left.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/black/pace-theme-fill-left.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/blue/pace-theme-fill-left.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/green/pace-theme-fill-left.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/orange/pace-theme-fill-left.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/pink/pace-theme-fill-left.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/purple/pace-theme-fill-left.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/red/pace-theme-fill-left.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/silver/pace-theme-fill-left.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/white/pace-theme-fill-left.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/yellow/pace-theme-fill-left.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/templates/pace-theme-fill-left.tmpl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/pace-theme-flash.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/black/pace-theme-flash.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/blue/pace-theme-flash.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/green/pace-theme-flash.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/orange/pace-theme-flash.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/pink/pace-theme-flash.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/purple/pace-theme-flash.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/red/pace-theme-flash.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/silver/pace-theme-flash.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/white/pace-theme-flash.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/yellow/pace-theme-flash.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/templates/pace-theme-flash.tmpl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/pace-theme-flat-top.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/black/pace-theme-flat-top.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/blue/pace-theme-flat-top.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/green/pace-theme-flat-top.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/orange/pace-theme-flat-top.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/pink/pace-theme-flat-top.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/purple/pace-theme-flat-top.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/red/pace-theme-flat-top.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/silver/pace-theme-flat-top.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/white/pace-theme-flat-top.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/yellow/pace-theme-flat-top.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/templates/pace-theme-flat-top.tmpl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/pace-theme-loading-bar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/black/pace-theme-loading-bar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/blue/pace-theme-loading-bar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/green/pace-theme-loading-bar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/orange/pace-theme-loading-bar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/pink/pace-theme-loading-bar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/purple/pace-theme-loading-bar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/red/pace-theme-loading-bar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/silver/pace-theme-loading-bar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/white/pace-theme-loading-bar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/yellow/pace-theme-loading-bar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/templates/pace-theme-loading-bar.tmpl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/pace-theme-mac-osx.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/black/pace-theme-mac-osx.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/blue/pace-theme-mac-osx.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/green/pace-theme-mac-osx.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/orange/pace-theme-mac-osx.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/pink/pace-theme-mac-osx.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/purple/pace-theme-mac-osx.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/red/pace-theme-mac-osx.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/silver/pace-theme-mac-osx.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/white/pace-theme-mac-osx.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/yellow/pace-theme-mac-osx.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/templates/pace-theme-mac-osx.tmpl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/pace-theme-minimal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/black/pace-theme-minimal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/blue/pace-theme-minimal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/green/pace-theme-minimal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/orange/pace-theme-minimal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/pink/pace-theme-minimal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/purple/pace-theme-minimal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/red/pace-theme-minimal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/silver/pace-theme-minimal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/white/pace-theme-minimal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/themes/yellow/pace-theme-minimal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/templates/pace-theme-minimal.tmpl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/pace.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/pace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/pace.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/docs/resources/templates/page.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/docs/lib/themes.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/docs/lib/themes.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="EyDashboard.iws" />
@@ -210,21 +208,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.269231">
-              <caret line="98" column="77" selection-start-line="98" selection-start-column="77" selection-end-line="98" selection-end-column="77" />
+            <state vertical-scroll-proportion="0.29166666">
+              <caret line="74" column="25" selection-start-line="74" selection-start-column="25" selection-end-line="74" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bar_chart.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="bar_chart.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ajax/bar_chart.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.13117284">
-              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state vertical-scroll-proportion="-15.038462">
+              <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -510,9 +508,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="2" y="44" width="1600" height="859" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2496799" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2496799" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -708,18 +706,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/ajax/bar_chart.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.269231">
-          <caret line="98" column="77" selection-start-line="98" selection-start-column="77" selection-end-line="98" selection-end-column="77" />
+        <state vertical-scroll-proportion="-15.038462">
+          <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ajax/bar_chart.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.13117284">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.29166666">
+          <caret line="74" column="25" selection-start-line="74" selection-start-column="25" selection-end-line="74" selection-end-column="25" />
           <folding />
         </state>
       </provider>
