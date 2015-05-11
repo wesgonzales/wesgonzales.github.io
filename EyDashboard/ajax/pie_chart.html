@@ -40,7 +40,14 @@
 </div>
 
 <!-- ================== BEGIN PAGE LEVEL JS ================== -->
-
+<script>
+    App.restartGlobalFunction();
+    App.setPageTitle('Color Admin | Dashboard V2');
+    
+    $.getScript('assets/js/dashboard-v2.min.js').done(function() {
+        DashboardV2.init();
+    });
+</script>
 <script src="d3.min.js"></script>
 <script src="script.js"></script>
 <!-- ================== END PAGE LEVEL JS ================== -->
