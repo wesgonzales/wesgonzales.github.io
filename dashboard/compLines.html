@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>EY Data</title>
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link href="css/sb-admin.css" rel="stylesheet">
+    <!-- Custom Fonts -->
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <!-- DC Css -->
+    <link href="dc.css" rel="stylesheet">
+</head>
+
+<body>
+
+<div id="wrapper">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <span class="navbar-brand-logo"></span>
+            <span class="navbar-brand">Data & Reports</span>
+        </div>
+        <!-- Top Menu Items -->
+
+        <!-- Sidebar Menu Items - These collapse to the responsive navigation menu on small screens -->
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav side-nav">
+                <li class="active">
+                    <a class="nav-head">Navigation</a>
+                    <a href="index.html"><i class="fa fa-fw fa-dashboard"></i> Dashboard & Regression</a>
+                    <a href="filterTime.html"><i class="fa fa-fw fa-dashboard"></i> Filter Time</a>
+                    <a href="compLines.html" class="sn-select"><i class="fa fa-fw fa-dashboard"></i> Comparison Over Time</a>
+                    <a href="multiFilter.html"><i class="fa fa-fw fa-dashboard"></i> Multi Tier Filter</a>
+                    <a href="barChart.html"><i class="fa fa-fw fa-dashboard"></i> Bar Chart</a>
+                </li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </nav>
+
+    <div id="page-wrapper">
+
+        <div class="container-fluid">
+
+
+
+            <div class="row">
+                <div class="col-lg-12">
+                    <h1 class="page-header" style="float:left;">
+                        Comparison Over Time <small>Comparing the value of two line over time </small>
+                    </h1>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="panel panel-default">
+                        <div id="test_composed"></div>
+                    </div>
+                </div>
+            </div>
+            <!-- /.row -->
+
+            <!-- /.row -->
+
+        </div>
+        <!-- /.container-fluid -->
+
+    </div>
+    <!-- /#page-wrapper -->
+
+</div>
+<!-- /#wrapper -->
+
+<!-- jQuery -->
+<script src="js/jquery.js"></script>
+<!-- Bootstrap -->
+<script src="js/bootstrap.min.js"></script>
+<!-- D3 and Crossfilter -->
+<script type="text/javascript" src="http://d3js.org/queue.v1.min.js"></script>
+<script src="d3.min.js"></script>
+<script src="crossfilter.js"></script>
+<script src="dc.js"></script>
+<script type="text/javascript">
+    var composite = dc.compositeChart("#test_composed");
+    var q = queue()
+            .defer(d3.csv, "morley.csv")
+            .defer(d3.csv, "morley2.csv");
+    q.await(function(error, exp1, exp2) {
+        var ndx = crossfilter();
+        ndx.add(exp1.map(function(d) {
+            return {x: +d.Run, y2:0, y1: d.Speed * d.Run / 1000};
+        }));
+        ndx.add(exp2.map(function(d) {
+            return {x: +d.Run, y1:0, y2: d.Speed * d.Run / 1000};
+        }));
+        var dim  = ndx.dimension(dc.pluck('x')),
+                grp1 = dim.group().reduceSum(dc.pluck('y1')),
+                grp2 = dim.group().reduceSum(dc.pluck('y2'));
+        composite
+                .width(768)
+                .height(480)
+                .x(d3.scale.linear().domain([0,20]))
+                .legend(dc.legend().x(80).y(20).itemHeight(13).gap(5))
+                .renderHorizontalGridLines(true)
+                .compose([
+                    dc.lineChart(composite)
+                            .dimension(dim)
+                            .colors('red')
+                            .group(grp1, "Filter Top Line")
+                            .dashStyle([2,2]),
+                    dc.lineChart(composite)
+                            .dimension(dim)
+                            .colors('blue')
+                            .group(grp2, "Filter Bottom Line")
+                            .dashStyle([5,5])
+                ])
+                .brushOn(false)
+                .render();
+    });
+</script>
+</body>
+</html>
