@@ -147,8 +147,7 @@ for (var i=0; i < 30; i++) {
 
 var height2 = 400,
     width2 = 600,
-
-var tempColor2;
+    tempColor2;
 
 var colors2 = d3.scale.linear()
     .domain([0, bardata2.length*.33, bardata2.length*.66, bardata2.length])
