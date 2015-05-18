@@ -147,8 +147,6 @@ for (var i=0; i < 30; i++) {
 
 var height2 = 400,
     width2 = 600,
-    barWidth2 = 50,
-    barOffset2 = 5;
 
 var tempColor2;
 
