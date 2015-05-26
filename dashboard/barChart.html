@@ -97,7 +97,9 @@
 <script src="crossfilter.js"></script>
 <script src="dc.js"></script>
 <script type="text/javascript">
+
     var chart = dc.barChart("#test");
+
     var counts = [
         {name: "RAM", cnt: 10},
         {name: "Processors", cnt: 15},
@@ -105,21 +107,23 @@
         {name: "Fans", cnt: 2},
         {name: "Cases", cnt: 4}
     ];
-    var ndx            = crossfilter(counts),
-            fruitDimension = ndx.dimension(function(d) {return d.name;}),
-            sumGroup       = fruitDimension.group().reduceSum(function(d) {return d.cnt;});
-    chart
-            .width(768)
-            .height(380)
-            .x(d3.scale.ordinal())
-            .xUnits(dc.units.ordinal)
-            .brushOn(false)
-            .dimension(fruitDimension)
-            .barPadding(0.1)
-            .outerPadding(0.05)
-            .group(sumGroup);
-    chart.render();
-</script>
 
+    var ndx            = crossfilter(counts),
+        fruitDimension = ndx.dimension(function(d) {return d.name;}),
+        sumGroup       = fruitDimension.group().reduceSum(function(d) {return d.cnt;});
+
+    chart.width(768)
+         .height(380)
+         .x(d3.scale.ordinal())
+         .xUnits(dc.units.ordinal)
+         .brushOn(false)
+         .dimension(fruitDimension)
+         .barPadding(0.1)
+         .outerPadding(0.05)
+         .group(sumGroup);
+
+    chart.render();
+
+</script>
 </body>
 </html>
