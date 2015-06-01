@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <style>
+        g.dimple-legend.dimple-add-evidence {float:left;}
+
+    </style>
+</head>
+<body>
+<div id="chartContainer">
+    <script src="d3.min.js"></script>
+    <script src="dimple.js"></script>
+    <script type="text/javascript">
+        var svg = dimple.newSvg("#chartContainer", 700, 500);
+        d3.tsv("example_data.tsv", function (data) {
+            var myChart = new dimple.chart(svg, data);
+            myChart.setBounds(95, 55, 475, 335)
+            var x = myChart.addCategoryAxis("x", ["Metric", "Task"]);
+            myChart.addCategoryAxis("y", "User");
+            var z = myChart.addMeasureAxis("z", "Count");
+            var s = myChart.addSeries("Task", dimple.plot.bubble);
+
+
+            s.aggregate = dimple.aggregateMethod.max;
+
+
+            myChart.addLegend(240, 10, 430, 50, "left");
+            myChart.draw();
+
+
+
+
+
+        });
+    </script>
+</div>
+</body>
+</html>
