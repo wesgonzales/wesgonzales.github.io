@@ -4,37 +4,48 @@
     <meta charset="UTF-8">
     <title></title>
     <style>
-        g.dimple-legend.dimple-add-evidence {float:left;}
+        html {
+            font-family: sans-serif;
+            -webkit-text-size-adjust: 100%;
+            -ms-text-size-adjust: 100%;
+            background-color: #24282D;
+        }
 
     </style>
 </head>
 <body>
 <div id="chartContainer">
+
     <script src="d3.min.js"></script>
     <script src="dimple.js"></script>
     <script type="text/javascript">
-        var svg = dimple.newSvg("#chartContainer", 700, 500);
-        d3.tsv("example_data.tsv", function (data) {
+        var svg = dimple.newSvg("#chartContainer", 700, 600);
+
+        d3.tsv("example_data.tsv", function (data)
+        {
             var myChart = new dimple.chart(svg, data);
-            myChart.setBounds(95, 55, 475, 335)
+            myChart.setBounds(95, 80, 475, 335)
+
             var x = myChart.addCategoryAxis("x", ["Metric", "Task"]);
             myChart.addCategoryAxis("y", "User");
+
             var z = myChart.addMeasureAxis("z", "Count");
             var s = myChart.addSeries("Task", dimple.plot.bubble);
 
-
             s.aggregate = dimple.aggregateMethod.max;
+            myChart.addLegend(240, 500, 230, 50, "left");
 
-
-            myChart.addLegend(240, 10, 430, 50, "left");
             myChart.draw();
 
-
-
-
-
+            d3.selectAll('g > .tick').attr("style","stroke:#E4E5E7;");
+            d3.selectAll('path.dimple-custom-axis-line').attr("style", "fill:none; stroke:#E4E5E7; shape-rendering:crispedges;")
+            d3.selectAll('text.dimple-axis.dimple-title.dimple-custom-axis-titledimple-axis-x').attr("style", "stroke:#fff; font-family: sans-serif;font-size: 10px;")
+            d3.selectAll('text.dimple-axis.dimple-title.dimple-custom-axis-titledimple-axis-y').attr("style", "stroke:#fff; font-family: sans-serif;font-size: 10px;")
+            d3.selectAll('text.dimple-legend.dimple-legend-text.dimple-custom-legend-label').attr("style","font-family: sans-serif;font-size: 10px; shape-rendering: crispedges; stroke:#fff")
+            d3.selectAll('line.dimple-custom-axis-line').attr('style', "fill: none; stroke: #fff; shape-rendering: crispedges;")
         });
     </script>
+
 </div>
 </body>
 </html>
