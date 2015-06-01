@@ -2,7 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="999a9bcb-7eda-44e6-97cf-47f2d2ebe275" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/usability/bubbles.html" afterPath="$PROJECT_DIR$/usability/bubbles.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/usability/nodes.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/usability/userNode.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/usability/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/usability/barChart.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/usability/blank-page.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/usability/charts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/usability/compLines.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/usability/filterTime.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/usability/forms.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/usability/index-rtl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/usability/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/usability/monthly-move.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/usability/morley.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/usability/morley2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/usability/multiFilter.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="wesgonzales.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,11 +48,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bubbles.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="bubbles.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/usability/bubbles.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.55686855">
-              <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+            <state vertical-scroll-proportion="-5.0833335">
+              <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nodes.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/usability/nodes.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-15.083333">
+              <caret line="183" column="23" selection-start-line="183" selection-start-column="23" selection-end-line="183" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="userNode.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/usability/userNode.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.088626295">
+              <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -85,6 +120,8 @@
         <option value="$PROJECT_DIR$/usability/example_data.tsv" />
         <option value="$PROJECT_DIR$/usability/dimple.js" />
         <option value="$PROJECT_DIR$/usability/bubbles.html" />
+        <option value="$PROJECT_DIR$/usability/nodes.json" />
+        <option value="$PROJECT_DIR$/usability/userNode.html" />
       </list>
     </option>
   </component>
@@ -174,10 +211,7 @@
       <recent name="$PROJECT_DIR$/usability" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.bubbles.html">
-    <configuration default="false" name="forms.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/wesgonzales.github.io/dashboard/forms.html">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.userNode.html">
     <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/wesgonzales.github.io/dashboard/index.html">
       <method />
     </configuration>
@@ -188,6 +222,9 @@
       <method />
     </configuration>
     <configuration default="false" name="bubbles.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/wesgonzales.github.io/usability/bubbles.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="userNode.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/wesgonzales.github.io/usability/userNode.html">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -229,19 +266,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.forms.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.bubbles_standard.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.bubbles_standard.html (1)" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.bubbles.html" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.bubbles_standard.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.bubbles_standard.html (1)" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.bubbles.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.userNode.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.bubbles.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.bubbles_standard.html (1)" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.bubbles_standard.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.forms.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.userNode.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.bubbles.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.bubbles_standard.html (1)" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.bubbles_standard.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -621,8 +658,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/usability/bubbles.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.55686855">
-          <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+        <state vertical-scroll-proportion="-5.0833335">
+          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usability/nodes.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.083333">
+          <caret line="183" column="23" selection-start-line="183" selection-start-column="23" selection-end-line="183" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usability/userNode.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.088626295">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
           <folding />
         </state>
       </provider>
