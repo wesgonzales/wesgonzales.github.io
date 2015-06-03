@@ -1,0 +1,65 @@
+Metric	User	Task	Count
+Mouse Clicks Per Task	User 001	Add Evidence	9
+Mouse Clicks Per Task	User 001	Review Evidence	6
+Mouse Clicks Per Task	User 001	Sign Off	19
+Time On Task/secs	User 001	Add Evidence	43
+Time On Task/secs	User 001	Review Evidence	64
+Time On Task/secs	User 001	Sign Off	61
+Mouse Clicks Per Task	User 001	Add Evidence 2	9
+Time On Task/secs	User 001	Add Evidence 2	37
+Mouse Clicks Per Task	User 002	Add Evidence	24
+Mouse Clicks Per Task	User 002	Review Evidence	15
+Mouse Clicks Per Task	User 002	Sign Off	3
+Time On Task/secs	User 002	Add Evidence	72
+Time On Task/secs	User 002	Review Evidence	63
+Time On Task/secs	User 002	Sign Off	28
+Mouse Clicks Per Task	User 002	Add Evidence 2	8
+Time On Task/secs	User 002	Add Evidence 2	32
+Mouse Clicks Per Task	User 003	Add Evidence	25
+Mouse Clicks Per Task	User 003	Review Evidence	15
+Mouse Clicks Per Task	User 003	Sign Off	14
+Time On Task/secs	User 003	Add Evidence	90
+Time On Task/secs	User 003	Review Evidence	75
+Time On Task/secs	User 003	Sign Off	42
+Mouse Clicks Per Task	User 003	Add Evidence 2	19
+Time On Task/secs	User 003	Add Evidence 2	43
+Mouse Clicks Per Task	User 004	Sign Off	27
+Mouse Clicks Per Task	User 004	Add Evidence	26
+Mouse Clicks Per Task	User 004	Review Evidence	9
+Time On Task/secs	User 004	Sign Off	67
+Time On Task/secs	User 004	Add Evidence	102
+Time On Task/secs	User 004	Review Evidence	51
+Mouse Clicks Per Task	User 004	Add Evidence 2	9
+Time On Task/secs	User 004	Add Evidence 2	27
+Mouse Clicks Per Task	User 005	Review Evidence	12
+Mouse Clicks Per Task	User 005	Add Evidence	11
+Mouse Clicks Per Task	User 005	Sign Off	7
+Time On Task/secs	User 005	Review Evidence	96
+Time On Task/secs	User 005	Add Evidence	168
+Time On Task/secs	User 005	Sign Off	44
+Mouse Clicks Per Task	User 005	Add Evidence 2	9
+Time On Task/secs	User 005	Add Evidence 2	30
+Mouse Clicks Per Task	User 006	Add Evidence	24
+Mouse Clicks Per Task	User 006	Review Evidence	7
+Mouse Clicks Per Task	User 006	Sign Off	14
+Time On Task/secs	User 006	Add Evidence	133
+Time On Task/secs	User 006	Review Evidence	65
+Time On Task/secs	User 006	Sign Off	100
+Mouse Clicks Per Task	User 006	Add Evidence 2	17
+Time On Task/secs	User 006	Add Evidence 2	117
+Mouse Clicks Per Task	User 007	Add Evidence	12
+Mouse Clicks Per Task	User 007	Review Evidence	13
+Mouse Clicks Per Task	User 007	Sign Off	4
+Time On Task/secs	User 007	Add Evidence	75
+Time On Task/secs	User 007	Review Evidence	82
+Time On Task/secs	User 007	Sign Off	14
+Mouse Clicks Per Task	User 007	Add Evidence 2	8
+Time On Task/secs	User 007	Add Evidence 2	33
+Mouse Clicks Per Task	User 008	Add Evidence	29
+Mouse Clicks Per Task	User 008	Review Evidence	6
+Mouse Clicks Per Task	User 008	Sign Off	4
+Time On Task/secs	User 008	Add Evidence	117
+Time On Task/secs	User 008	Review Evidence	40
+Time On Task/secs	User 008	Sign Off	14
+Mouse Clicks Per Task	User 008	Add Evidence 2	8
+Time On Task/secs	User 008	Add Evidence 2	36

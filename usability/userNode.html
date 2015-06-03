@@ -1,23 +1,120 @@
-<div id="chartContainer">
-    <h1>Calculating Efficiency of Users - Lower is Better</h1>
-    <script src="d3.min.js"></script>
-    <script src="dimple.js"></script>
-    <script type="text/javascript">
-        var svg = dimple.newSvg("#chartContainer", 590, 400);
-        d3.tsv("example_data_min.tsv", function (data) {
-            var myChart = new dimple.chart(svg, data);
-            myChart.setBounds(65, 50, 505, 310)
-            myChart.addPctAxis("x", "Count");
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>EY Data</title>
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link href="css/sb-admin.css" rel="stylesheet">
+    <!-- Custom Fonts -->
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <!-- DC Css -->
+    <link href="dc.css" rel="stylesheet">
+</head>
+
+<body>
+
+<div id="wrapper">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <span class="navbar-brand-logo"></span>
+            <span class="navbar-brand">Data & Reports</span>
+        </div>
+        <!-- Top Menu Items -->
+
+        <!-- Sidebar Menu Items - These collapse to the responsive navigation menu on small screens -->
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav side-nav">
+                <li class="active">
+                    <a class="nav-head">Navigation</a>
+                    <a href="bubbles.html"><i class="fa fa-bar-chart-o fa-fw"></i> Bubble Chart</a>
+                    <a href="userNode.html" class="sn-select"><i class="fa fa-bar-chart-o fa-fw"></i> Inefficiency Scale</a>
+                </li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </nav>
+
+    <div id="page-wrapper">
+
+        <div class="container-fluid">
+
+            <!-- Page Heading -->
+            <div class="row">
+                <div class="col-lg-12">
+                    <h1 class="page-header" style="float:left;">
+                        Inefficiency Scale <small>Calculating the inefficiency of a user (lower is better) </small>
+                    </h1>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="panel panel-default">
+                        <div id="chartContainer" style="margin-top:-50px;">
+                            <h1>Calculating Efficiency of Users - Lower is Better</h1>
+                            <script src="d3.min.js"></script>
+                            <script src="dimple.js"></script>
+                            <script type="text/javascript">
+                                var svg = dimple.newSvg("#chartContainer", 590, 400);
+                                d3.tsv("example_data_min.tsv", function (data) {
+                                    var myChart = new dimple.chart(svg, data);
+                                    myChart.setBounds(65, 50, 505, 310)
+                                    myChart.addPctAxis("x", "Count");
 
 
-            myChart.addPctAxis("y", "Count");
-            var s = myChart.addSeries("User", dimple.plot.bar);
+                                    myChart.addPctAxis("y", "Count");
+                                    var s = myChart.addSeries("User", dimple.plot.bar);
 
-            myChart.addLegend(240, 10, 330, 20, "right");
-            myChart.draw();
-            d3.selectAll('.dimple-custom-series-bar').attr("height", "15");
-            d3.selectAll('.dimple-custom-series-bar').attr("width", "15");
+                                    myChart.addLegend(240, 10, 330, 20, "right");
+                                    myChart.draw();
+                                    d3.selectAll('.dimple-custom-series-bar').attr("height", "20");
+                                    d3.selectAll('.dimple-custom-series-bar').attr("width", "20");
+                                    d3.selectAll('g > .tick').attr("style","stroke:#E4E5E7;");
+                                    d3.selectAll('path.dimple-custom-axis-line').attr("style", "fill:none; stroke:#E4E5E7; shape-rendering:crispedges;")
+                                    d3.selectAll('text.dimple-axis.dimple-title.dimple-custom-axis-titledimple-axis-x').attr("style", "stroke:#fff; font-family: sans-serif;font-size: 10px;")
+                                    d3.selectAll('text.dimple-axis.dimple-title.dimple-custom-axis-titledimple-axis-y').attr("style", "stroke:#fff; font-family: sans-serif;font-size: 10px;")
+                                    d3.selectAll('text.dimple-legend.dimple-legend-text.dimple-custom-legend-label').attr("style","font-family: sans-serif;font-size: 10px; shape-rendering: crispedges; stroke:#fff")
+                                    d3.selectAll('line.dimple-custom-axis-line').attr('style', "fill: none; stroke: #fff; shape-rendering: crispedges;")
 
-        });
-    </script>
+                                });
+                            </script>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+        <!-- /.row -->
+
+        <!-- /.row -->
+
+    </div>
+    <!-- /.container-fluid -->
+
 </div>
+<!-- /#page-wrapper -->
+
+</div>
+<!-- /#wrapper -->
+
+</body>
+</html>
+
+
