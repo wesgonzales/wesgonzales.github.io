@@ -1,0 +1,361 @@
+/*!
+ * Start Bootstrap - SB Admin Bootstrap Admin Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+/* Global Styles */
+@font-face {
+    font-family: NotoSans-Regular;
+    src: url("../fonts/NotoSans-Regular.ttf");
+}
+
+body {
+    margin-top: 100px;
+    background-color: #222;
+    font-family: NotoSans-Regular;
+}
+
+@media(min-width:768px) {
+    body {
+        margin-top: 50px;
+    }
+}
+
+#wrapper {
+    padding-left: 0;
+}
+
+#page-wrapper {
+    width: 100%;
+    padding: 0;
+    background-color: #24282D;
+}
+
+.huge {
+    font-size: 50px;
+    line-height: normal;
+}
+
+@media(min-width:768px) {
+    #wrapper {
+        padding-left: 225px;
+    }
+
+    #page-wrapper {
+        padding: 48px;
+    }
+}
+
+/* Top Navigation */
+
+.top-nav {
+    padding: 0 15px;
+}
+
+.top-nav>li {
+    display: inline-block;
+    float: left;
+}
+
+.top-nav>li>a {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    line-height: 20px;
+    color: #999;
+}
+
+.top-nav>li>a:hover,
+.top-nav>li>a:focus,
+.top-nav>.open>a,
+.top-nav>.open>a:hover,
+.top-nav>.open>a:focus {
+    color: #fff;
+    background-color: #000;
+}
+
+.top-nav>.open>.dropdown-menu {
+    float: left;
+    position: absolute;
+    margin-top: 0;
+    border: 1px solid rgba(0,0,0,.15);
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    background-color: #fff;
+    -webkit-box-shadow: 0 6px 12px rgba(0,0,0,.175);
+    box-shadow: 0 6px 12px rgba(0,0,0,.175);
+}
+
+.top-nav>.open>.dropdown-menu>li>a {
+    white-space: normal;
+}
+
+ul.message-dropdown {
+    padding: 0;
+    max-height: 250px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+li.message-preview {
+    width: 275px;
+    border-bottom: 1px solid rgba(0,0,0,.15);
+}
+
+li.message-preview>a {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+li.message-footer {
+    margin: 5px 0;
+}
+
+ul.alert-dropdown {
+    width: 200px;
+}
+
+/* Side Navigation */
+
+@media(min-width:768px) {
+    .side-nav {
+        position: fixed;
+        top: 81px;
+        left: 225px;
+        width: 225px;
+        margin-left: -225px;
+        border: none;
+        border-radius: 0;
+        overflow-y: auto;
+        background-color: #373737;
+        bottom: 0;
+        overflow-x: hidden;
+        padding-bottom: 40px;
+    }
+
+    .side-nav>li>a {
+        width: 225px;
+    }
+
+    .side-nav li a:hover,
+    .side-nav li a:focus {
+        outline: none;
+        background-color: #24282D!important;
+    }
+    .side-nav li a.nav-head:hover{
+        background-color: #373737!important;
+    }
+
+    .sn-select {background-color: #24282D!important;}
+}
+
+.side-nav>li>ul {
+    padding: 0;
+}
+
+.side-nav>li>ul>li>a {
+    display: block;
+    padding: 10px 15px 10px 38px;
+    text-decoration: none;
+    color: #999;
+}
+
+.side-nav>li>ul>li>a:hover {
+    color: #fff;
+}
+
+
+/* Custom Colored Panels */
+
+.huge {
+    font-size: 40px;
+}
+
+.panel-green {
+    border-color: #5cb85c;
+}
+
+.panel-green > .panel-heading {
+    border-color: #5cb85c;
+    color: #fff;
+    background-color: #5cb85c;
+}
+
+.panel-green > a {
+    color: #5cb85c;
+}
+
+.panel-green > a:hover {
+    color: #3d8b3d;
+}
+
+.panel-red {
+    border-color: #d9534f;
+}
+
+.panel-red > .panel-heading {
+    border-color: #d9534f;
+    color: #fff;
+    background-color: #d9534f;
+}
+
+.panel-red > a {
+    color: #d9534f;
+}
+
+.panel-red > a:hover {
+    color: #b52b27;
+}
+
+.panel-yellow {
+    border-color: #f0ad4e;
+}
+
+.panel-yellow > .panel-heading {
+    border-color: #f0ad4e;
+    color: #fff;
+    background-color: #f0ad4e;
+}
+
+.panel-yellow > a {
+    color: #f0ad4e;
+}
+
+.panel-yellow > a:hover {
+    color: #df8a13;
+}
+
+.containerSeven {
+    margin-left: 23%;
+}
+
+#chartSeven { margin-top:-16px; margin-bottom: 16px;}
+
+.panel {
+    background-color: transparent;
+    border: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.navbar-inverse { background-color: #373737; border: none; /* box-shadow: 1px 1px 1px 1px #000; */}
+
+.panel-default > .panel-heading {
+    color: #fff;
+    background-color: transparent;
+    border: none;
+}
+
+.panel-default { border: none; }
+
+#charSix { border: none; }
+
+h1 small,
+.h1 small,
+h2 small,
+.h2 small,
+h3 small,
+.h3 small,
+h1 .small,
+.h1 .small,
+h2 .small,
+.h2 .small,
+h3 .small,
+.h3 .small {
+    font-size: 55%;
+}
+
+.page-header { font-size: 28px; color: #fff; border: none; }
+
+.breadcrumb {
+    margin-top: 43px;
+    background-color: transparent;
+    border: none;
+}
+
+.navbar-brand-logo {
+    background-image: url("../eyLogo.png");
+    width: 224px;
+    height: 81px;
+    margin-top: 0px;
+    margin-left: 1px;
+    float: left;
+    background-color: #FFD200;
+    repeat: none;
+    background-repeat: no-repeat;
+    background-position: 82px;
+}
+
+.navbar-brand {
+    float: left;
+    height: 50px;
+    padding: 31px 60px;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.panel-primary {
+    border-color: #0070C0;
+}
+
+.panel-primary > .panel-heading {
+    color: #fff;
+    background-color: #0070C0;
+    border-color: #0070C0;
+    text-align: center;
+}
+
+.panel-green > .panel-heading {
+    border-color: #00B050;
+    color: #fff;
+    background-color: #00B050;
+    text-align: center;
+}
+
+.panel-red > .panel-heading {
+    border-color: #F7941D;
+    color: #fff;
+    background-color: #F7941D;
+    text-align: center;
+}
+
+.panel-red > a {
+    color: #F7941D;
+}
+
+.breadcrumb-small {
+    padding: 8px 15px;
+    margin-bottom: 20px;
+    list-style: none;
+    background-color: #f5f5f5;
+    border-radius: 4px;
+}
+.breadcrumb-small > li {
+    display: inline-block;
+}
+.breadcrumb-small > li + li:before {
+    padding: 0 5px;
+    color: #ccc;
+    content: "/\00a0";
+}
+.breadcrumb-small > .active {
+    color: #777;
+}
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+    color: #fff;
+    background-color: #373737;
+    border-bottom: 1px solid #555;
+}
+
+a.nav-head {
+    padding-left: 17px;
+    font-size: 12px!important;
+    color: #777!important;
+}
+a:hover {
+    background-color: #373737!important;
+}
+

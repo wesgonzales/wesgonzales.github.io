@@ -43,8 +43,8 @@
             <ul class="nav navbar-nav side-nav">
                 <li class="active">
                     <a class="nav-head">Navigation</a>
-                    <a href="index.html" class="sn-select"><i class="fa fa-bar-chart-o fa-fw"></i> Bubble Chart</a>
-                    <a href="userNode.html"><i class="fa fa-bar-chart-o fa-fw"></i> Efficiency Scale</a>
+                    <a href="bubbles.html"><i class="fa fa-bar-chart-o fa-fw"></i> Bubble Chart</a>
+                    <a href="userNode.html" class="sn-select"><i class="fa fa-bar-chart-o fa-fw"></i> Inefficiency Scale</a>
                 </li>
             </ul>
         </div>
@@ -59,45 +59,41 @@
             <div class="row">
                 <div class="col-lg-12">
                     <h1 class="page-header" style="float:left;">
-                        Bubble Chart <small>Side by side metrics </small>
+                        Inefficiency Scale <small>Calculating the inefficiency of a user (lower is better) </small>
                     </h1>
                 </div>
             </div>
             <div class="row">
                 <div class="col-lg-12">
                     <div class="panel panel-default">
-                        <div id="chartContainer">
-
+                        <div id="chartContainer" style="margin-top:-50px;">
+                            <h1>Calculating Efficiency of Users - Lower is Better</h1>
                             <script src="d3.min.js"></script>
                             <script src="dimple.js"></script>
                             <script type="text/javascript">
-                                var svg = dimple.newSvg("#chartContainer", 700, 600);
-
-                                d3.tsv("example_data.tsv", function (data)
-                                {
+                                var svg = dimple.newSvg("#chartContainer", 590, 400);
+                                d3.tsv("example_data_min.tsv", function (data) {
                                     var myChart = new dimple.chart(svg, data);
-                                    myChart.setBounds(85, 10, 475, 335)
+                                    myChart.setBounds(65, 50, 505, 310)
+                                    myChart.addPctAxis("x", "Count");
 
-                                    var x = myChart.addCategoryAxis("x", ["Metric", "Task"]);
-                                    myChart.addCategoryAxis("y", "User");
 
-                                    var z = myChart.addMeasureAxis("z", "Count");
-                                    var s = myChart.addSeries("Task", dimple.plot.bubble);
+                                    myChart.addPctAxis("y", "Count");
+                                    var s = myChart.addSeries("User", dimple.plot.bar);
 
-                                    s.aggregate = dimple.aggregateMethod.max;
-                                    myChart.addLegend(240, 420, 230, 50, "left");
-
+                                    myChart.addLegend(240, 10, 330, 20, "right");
                                     myChart.draw();
-
+                                    d3.selectAll('.dimple-custom-series-bar').attr("height", "20");
+                                    d3.selectAll('.dimple-custom-series-bar').attr("width", "20");
                                     d3.selectAll('g > .tick').attr("style","stroke:#E4E5E7;");
                                     d3.selectAll('path.dimple-custom-axis-line').attr("style", "fill:none; stroke:#E4E5E7; shape-rendering:crispedges;")
                                     d3.selectAll('text.dimple-axis.dimple-title.dimple-custom-axis-titledimple-axis-x').attr("style", "stroke:#fff; font-family: sans-serif;font-size: 10px;")
                                     d3.selectAll('text.dimple-axis.dimple-title.dimple-custom-axis-titledimple-axis-y').attr("style", "stroke:#fff; font-family: sans-serif;font-size: 10px;")
                                     d3.selectAll('text.dimple-legend.dimple-legend-text.dimple-custom-legend-label').attr("style","font-family: sans-serif;font-size: 10px; shape-rendering: crispedges; stroke:#fff")
                                     d3.selectAll('line.dimple-custom-axis-line').attr('style', "fill: none; stroke: #fff; shape-rendering: crispedges;")
+
                                 });
                             </script>
-
                         </div>
                     </div>
                 </div>
@@ -120,3 +116,5 @@
 
 </body>
 </html>
+
+
