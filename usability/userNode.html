@@ -72,9 +72,10 @@
                             <script src="dimple.js"></script>
                             <script type="text/javascript">
                                 var svg = dimple.newSvg("#chartContainer", 590, 400);
-                                d3.tsv("example_data_min.tsv", function (data) {
+                                d3.tsv("example_data_min.tsv", function (data)
+                                {
                                     var myChart = new dimple.chart(svg, data);
-                                    myChart.setBounds(65, 50, 505, 310)
+                                    myChart.setBounds(65, 50, 505, 310);
                                     myChart.addPctAxis("x", "Count");
 
 
@@ -91,7 +92,6 @@
                                     d3.selectAll('text.dimple-axis.dimple-title.dimple-custom-axis-titledimple-axis-y').attr("style", "stroke:#fff; font-family: sans-serif;font-size: 10px;")
                                     d3.selectAll('text.dimple-legend.dimple-legend-text.dimple-custom-legend-label').attr("style","font-family: sans-serif;font-size: 10px; shape-rendering: crispedges; stroke:#fff")
                                     d3.selectAll('line.dimple-custom-axis-line').attr('style', "fill: none; stroke: #fff; shape-rendering: crispedges;")
-
                                 });
                             </script>
                         </div>
