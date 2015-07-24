@@ -79,3 +79,8 @@
 
 nav .form-group{float:right;}
 .userProfileNav p {float:right; font-size: 12px;}
+
+.featureTag p {
+    font-family: fira_sansregular;
+    color:#9d9d9d;
+}
